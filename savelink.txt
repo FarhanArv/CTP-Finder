@@ -1,0 +1,17 @@
+https://www.codepolitan.com/blog/tutorial-membuat-shopping-cart-dengan-php-59a38b4aa047a/
+shop cart
+
+https://code.tutsplus.com/id/how-to-use-sessions-and-session-variables-in-php--cms-31839t
+session
+
+https://www.codekop.com/read/tutorial-php-cara-membuat-query-builder-class-crud-sederhana-dengan-php.html
+CRUD sql php
+
+// logic penambahan slot untuk reservasi jam online
+
+hitungTotalReservasi = Select count (*) from reservasi where tanggal = "2023-12-18" and jam = "8.00"
+if hitungTotalReservasi == 4 {
+notifikasi slot penuh
+} else {
+insert into reservasi 
+}
