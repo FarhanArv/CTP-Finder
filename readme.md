@@ -19,6 +19,8 @@ CTP Finder adalah aplikasi berbasis web untuk mengelola dan melacak plat CTP (Co
 ✅ Histori Penggunaan – Lihat riwayat penggunaan setiap plat untuk referensi produksi.
 ✅ Antarmuka Responsif – Desain yang mudah digunakan di desktop maupun perangkat mobile.
 
+!!!! WAJIB MEMASANG 2 DATABASE YAITU SWIPEDB DAN DB_LAUNDRY !!!!
+
 ### Berikut struktur folder dalam aplikasi ini:
 ##### Menggunakan vscode
 📦Swipe-Clean
