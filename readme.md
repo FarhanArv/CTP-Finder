@@ -9,7 +9,15 @@
 
 
 ### Deskripsi 
-**Swipe Clean** merupakan solusi inovatif untuk mengatasi tantangan antrian panjang di **Bengkel Cuci**. Dengan pertumbuhan bisnis yang pesat dan tingginya permintaan layanan *self-service*, **Swipe Clean** memperkenalkan sistem antrian online yang memungkinkan pelanggan melakukan pemesanan dan reservasi layanan *self-service* secara daring. Langkah ini bertujuan untuk mengurangi antrian fisik di tempat, dan memberikan pengalaman pelanggan yang lebih memuaskan. Dengan **Swipe Clean**, **Bengkel Cuci** dapat mengoptimalkan waktu tunggu, mengatasi ketidaknyamanan pelanggan, serta meningkatkan kualitas pelayanan secara keseluruhan.
+🖨️ CTP Finder
+CTP Finder adalah aplikasi berbasis web untuk mengelola dan melacak plat CTP (Computer-to-Plate) dalam lingkungan percetakan. Aplikasi ini dirancang untuk membantu pencatatan stok, penggunaan, dan lokasi plat CTP guna meningkatkan efisiensi manajemen inventaris.
+
+✨ Fitur Utama
+✅ Manajemen Inventaris – Tambah, edit, dan hapus data plat CTP dengan mudah.
+✅ Pencarian Cepat – Temukan plat CTP berdasarkan ID, ukuran, atau status penggunaan.
+✅ Pelacakan Status – Pantau apakah plat dalam kondisi baru, terpakai, atau siap digunakan kembali.
+✅ Histori Penggunaan – Lihat riwayat penggunaan setiap plat untuk referensi produksi.
+✅ Antarmuka Responsif – Desain yang mudah digunakan di desktop maupun perangkat mobile.
 
 ### Berikut struktur folder dalam aplikasi ini:
 ##### Menggunakan vscode
