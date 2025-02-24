@@ -1,4 +1,4 @@
-# PROGRAM WEB APLIKASI SWIPE CLEAN 
+# PROGRAM WEB APLIKASI CTP FINDER
 ### version 1.0
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
